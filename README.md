@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## **MAGD 150 Examples**
+This is a repository for my MAGD 150 Lab Assignments
 
-You can use the [editor on GitHub](https://github.com/nick-rob23/magd150-project/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+## Below is Lab Assignement 4 and link to the Project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Lab 4 was Dyanmism and had a theme of pizza for the final product.*
 
-### Markdown
+Click [here](https://github.com/nick-rob23/magd150-project/blob/gh-pages/s22magd150lab04_Robson_2022_02_28_05_12_27/sketch.js) to see the souce code.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To view the HTML for Lab Assignment 4, click [here](https://github.com/nick-rob23/magd150-project/blob/gh-pages/s22magd150lab04_Robson_2022_02_28_05_12_27/index.html)
 
-```markdown
-Syntax highlighted code block
+### Lab Assignment 
 
-# Header 1
-## Header 2
-### Header 3
+#### Lab Assignment
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nick-rob23/magd150-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
